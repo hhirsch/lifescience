@@ -2,3 +2,4 @@
 ## Biologie
 - [NABU Akademie Artenwissen](https://artenwissen.online)
 - [Naturportal Südwest Gräserbestimmung](https://naturportal-suedwest.de/de/graeser/)
+- [Coleoptera Europaea](https://coleoweb.de)
